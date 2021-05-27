@@ -1,4 +1,4 @@
-# Raydium UI
+# SOLAFARM UI
 
 ## Build Setup
 
