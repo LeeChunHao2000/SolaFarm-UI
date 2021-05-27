@@ -1,0 +1,156 @@
+{
+  "id": "2532482",
+  "name": "gfc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21479567",
+      "name": "gitbook",
+      "font_class": "gitbook",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "21439756",
+      "name": "eidt",
+      "font_class": "bianji",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "21439757",
+      "name": "copy (1)",
+      "font_class": "fuzhi1",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21439758",
+      "name": "table",
+      "font_class": "fangkuanxinxibiao",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "21439759",
+      "name": "i",
+      "font_class": "gantanhao-quan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21439760",
+      "name": "more",
+      "font_class": "gengduo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "21439761",
+      "name": "more (1)",
+      "font_class": "gengduo1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "21439762",
+      "name": "up (1)",
+      "font_class": "jiantou_youshang1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "21439763",
+      "name": "tt",
+      "font_class": "tuite",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21439764",
+      "name": "wallet",
+      "font_class": "qianbao",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "21439765",
+      "name": "close (1)",
+      "font_class": "guanbi1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "21439766",
+      "name": "my",
+      "font_class": "wode",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "21439767",
+      "name": "copy1",
+      "font_class": "tuoyuan1kaobei",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "21439768",
+      "name": "setting1",
+      "font_class": "shezhi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21439769",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21439770",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "21439771",
+      "name": "home",
+      "font_class": "shouye",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "21439772",
+      "name": "blog",
+      "font_class": "xieboke",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "15223394",
+      "name": "liq",
+      "font_class": "ico_ttms",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "18267908",
+      "name": "chart",
+      "font_class": "bingtutubiao",
+      "unicode": "e98c",
+      "unicode_decimal": 59788
+    },
+    {
+      "icon_id": "18267909",
+      "name": "ch",
+      "font_class": "chufang",
+      "unicode": "e98d",
+      "unicode_decimal": 59789
+    }
+  ]
+}

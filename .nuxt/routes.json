@@ -1,0 +1,51 @@
+[
+  {
+    "name": "acceleraytor",
+    "path": "/acceleraytor",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/acceleraytor/index.vue",
+    "chunkName": "pages/acceleraytor/index",
+    "_name": "_40131a20"
+  },
+  {
+    "name": "info",
+    "path": "/info",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/info.vue",
+    "chunkName": "pages/info",
+    "_name": "_36019c31"
+  },
+  {
+    "name": "liquidity",
+    "path": "/liquidity",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/liquidity.vue",
+    "chunkName": "pages/liquidity",
+    "_name": "_3258ae7f"
+  },
+  {
+    "name": "pools",
+    "path": "/pools",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/pools.vue",
+    "chunkName": "pages/pools",
+    "_name": "_4ad16738"
+  },
+  {
+    "name": "staking",
+    "path": "/staking",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/staking.vue",
+    "chunkName": "pages/staking",
+    "_name": "_248f5df8"
+  },
+  {
+    "name": "acceleraytor-id",
+    "path": "/acceleraytor/:id",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/acceleraytor/_id.vue",
+    "chunkName": "pages/acceleraytor/_id",
+    "_name": "_11371d50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/one/ww/gao/SolaFarm-UI/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_134713df"
+  }
+]

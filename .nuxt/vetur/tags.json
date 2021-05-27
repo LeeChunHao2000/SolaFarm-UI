@@ -1,0 +1,29 @@
+{
+  "CoinInput": {
+    "description": "Auto imported from components/CoinInput.vue"
+  },
+  "CoinModal": {
+    "description": "Auto imported from components/CoinModal.vue"
+  },
+  "CoinSelect": {
+    "description": "Auto imported from components/CoinSelect.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Left": {
+    "description": "Auto imported from components/Left.vue"
+  },
+  "LiquidityPoolInfo": {
+    "description": "Auto imported from components/LiquidityPoolInfo.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "PhoneMenu": {
+    "description": "Auto imported from components/PhoneMenu.vue"
+  },
+  "Wallet": {
+    "description": "Auto imported from components/Wallet.vue"
+  }
+}
