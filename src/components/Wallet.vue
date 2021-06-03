@@ -211,6 +211,11 @@ export default class Wallet extends Vue {
       wallet = new BloctoWalletAdapter()
       break
     }
+    default: {
+      wallet = new SolanaWalletAdapter(this.wallets[walletName], endpoint)
+      break
+    }
+  }
 
     wallet.on('connect', () => {
       this.$accessor.wallet.closeModal().then(() => {
